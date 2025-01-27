@@ -1,0 +1,8 @@
+Ticket info
+Row :A
+Seat :1
+Price :200.0
+Person info :
+Name :Janindu
+Surname :Weerakkody
+Email :Janindu@gmail.com
